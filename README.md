@@ -2,11 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/131565885/235118578-69a9b4e5-33a8-4571-9d60-7d2051d779fa.png)
 
-
-**There are 3 main parts**
-1. Data Overview
-2. Create table
-3. Handle Requests about Customers, Orders, Products, Revenue
 # 1. Data Overview
 **The table structure of 5 different Data marts in a Data warehouse is as follows :**
 ![212323928-120f0473-7d88-4bef-85ca-afbab466228d](https://user-images.githubusercontent.com/131565330/233814482-85df9454-802d-4f3b-8adf-307d42963737.png)
