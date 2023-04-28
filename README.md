@@ -1,6 +1,6 @@
 # DATA ANALYST: USING SQL SERVER
 
-![image](https://user-images.githubusercontent.com/131565885/235118110-09467829-8bf0-4715-ab27-e8f7f96a6bd9.png)
+![image](https://user-images.githubusercontent.com/131565885/235118365-784e94ce-d0f8-40a0-b68b-b0ffba051c4d.png)
 
 
 **There are 3 main parts**
