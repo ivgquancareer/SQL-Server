@@ -1,4 +1,6 @@
-# There are 3 main parts
+# DATA ANALYST: USING SQL SERVER
+
+**There are 3 main parts**
 1. Data Overview
 2. Create table
 3. Handle Requests about Customers, Orders, Products, Revenue
