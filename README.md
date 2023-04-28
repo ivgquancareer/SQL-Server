@@ -1,5 +1,8 @@
 # DATA ANALYST: USING SQL SERVER
 
+![image](https://user-images.githubusercontent.com/131565885/235117932-b8bb9444-2a8b-4ae9-b4a2-557b9402b4ea.png)
+
+
 **There are 3 main parts**
 1. Data Overview
 2. Create table
