@@ -1,4 +1,4 @@
-# DATA ANALYST: USING SQL SERVER
+# DATA ANALYSIS: USING SQL SERVER
 
 ![image](https://user-images.githubusercontent.com/131565885/235278658-88b9a873-6bdb-4db8-9796-ab472db0a115.png)
 
